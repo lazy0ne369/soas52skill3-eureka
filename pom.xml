@@ -16,6 +16,9 @@
     <artifactId>eurekaserver</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <!-- WAR Packaging -->
+    <packaging>war</packaging>
+
     <properties>
         <java.version>25</java.version>
         <spring-cloud.version>2025.1.2</spring-cloud.version>
